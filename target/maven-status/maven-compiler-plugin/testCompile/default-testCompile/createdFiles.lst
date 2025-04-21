@@ -1,0 +1,7 @@
+com\simplesdental\product\useCase\CategoryUseCaseTest.class
+com\simplesdental\product\autenticator\RequestFilterTest.class
+com\simplesdental\product\useCase\AuthUseCaseTest.class
+com\simplesdental\product\autenticator\AuthUseCaseTest.class
+com\simplesdental\product\autenticator\JwtAuthenticationTest.class
+com\simplesdental\product\autenticator\RoleBasedAccessControlTest.class
+com\simplesdental\product\useCase\ProductUseCaseTest.class

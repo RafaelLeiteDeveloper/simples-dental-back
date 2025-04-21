@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simplesdental.product.autenticator.RoleBasedAccessControlTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s -- in com.simplesdental.product.autenticator.RoleBasedAccessControlTest
